@@ -1,0 +1,133 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #170550;
+    padding-left:  150px;
+    padding-right: 150px;
+}
+
+
+.navbar-logo{
+    width: 150px;
+    height: 55px;
+    top: 15px;
+}
+
+
+.menu{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    color: #FFFFFF;
+}
+
+
+
+.menu>li{
+    cursor: pointer;
+}
+
+
+
+.btn{
+    background-color: #fff;
+    padding: 10px 42px;
+    color: #461959;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+
+
+/* 
+=================
+bannr part
+================= */
+
+
+
+.bannar{
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: #31065A;
+}
+
+
+.bannur img {
+    width: 577px;
+    height: 683px;
+}
+.text{
+    color: #F86F03;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 6px ;
+}
+
+
+.devolapar{
+    color: #fff;
+    margin-bottom: 6px;
+
+
+}
+.kabir{
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+
+
+.title{
+    color: #F86F03;
+}
+.Anamul{
+    color: #fff;
+}
+
+
+.sosal-midia{
+    margin-top: 36px;
+    margin-bottom: 32px
+}
+.sosal-midia> a >img{
+    margin-right: 24px;
+    border: 1px solid white;
+    padding: 4px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+
+.anamul-kabir{
+    background-color: #F86F03;
+    padding: 10px 45px;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+
+
+/* ================
+  About start 
+================ */
+
+
+
+
+}
+.About{
+    text-align: center;
+    background-color: #170550;
+}
+
